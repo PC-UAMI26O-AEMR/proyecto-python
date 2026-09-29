@@ -1,3 +1,4 @@
+###########################################################
 # Hola Python
 
 Un script simple en Python para dar una bienvenida básica por consola.
